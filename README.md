@@ -1,0 +1,4 @@
+tracert
+=======
+
+ping / tracert exercise
